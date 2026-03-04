@@ -45,3 +45,11 @@ Durante o desenvolvimento deste exercício foram utilizados conceitos fundamenta
 
 ## Exemplo de execução
 <img width="450" height="222" alt="Imagem colada (3)" src="https://github.com/user-attachments/assets/cba006ad-84cc-45fb-b9fa-9a1070120fa1" />
+
+## Tecnologias utilizadas
+
+- Python 3
+
+## Autor
+
+Mateus Almeida
