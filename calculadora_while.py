@@ -43,4 +43,5 @@ while True:
     sair = input('Quer sair? Sim ou Não? R: ').lower().startswith('s')
     
     if sair is True:
+        print('Programa encerrado!')
         break
